@@ -1,0 +1,208 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+
+.nav-section {
+  background-color: #f0fff0;
+}
+
+.navbar-nav .navbar-center {
+  position: absolute;
+  left: 50%;
+  transform: translatex(-50%);
+
+}
+
+.icon {
+  width: 200px;
+  height: 60px;
+
+}
+
+.nav-item {
+  padding: 0px 5px;
+}
+
+.nav-item a {
+  text-decoration: none;
+}
+
+.nav-link-bg {
+  font-size: 20px;
+  text-align: center;
+  color: white;
+  padding: 1px 10px 5px 10px;
+  border-radius: 20px;
+  background-color: rgb(26, 187, 66);
+}
+
+
+/* landing page section */
+.bg-top {
+  padding: 50px 0px;
+  background-color: #f0fff0;
+
+}
+
+.right {
+  text-align: center;
+
+}
+
+.right img {
+  width: 554px;
+  height: 346px;
+
+
+}
+
+.left {
+  margin-left: 20px;
+}
+
+.btn.btn-dark {
+  width: 153px;
+  height: 43px;
+  border: none;
+  margin-top: 30px;
+  border-radius: 20px;
+  background-color: rgb(26, 187, 66);
+}
+
+
+
+
+/* box course section */
+
+
+
+.box {
+  width: 270px;
+  height: 270px;
+  /* border: 1px solid black; */
+  margin: 42px 15px 105px 15px;
+  text-align: center;
+  border-radius: 25px;
+  background-color: #F8FFFB;
+  box-shadow: 2px 1px 15px 2px #dfe7e2;
+
+}
+
+.box:hover {
+  background-color: white;
+}
+
+.box img {
+  text-align: center;
+  width: 80px;
+  height: 95px;
+  padding-top: 50px;
+}
+
+.box h4 {
+  padding-top: 10px;
+}
+
+
+/* online section css */
+
+
+.online-heading {
+  text-align: center;
+  margin: 30px 0px;
+  /* margin-left: 40%; */
+  font-size: 36px;
+  font-weight: bold;
+}
+
+.card {
+  border: none;
+  border-radius: 25px;
+  box-shadow: 2px 1px 15px 2px #dfe7e2;
+}
+
+.card-deck {
+  margin-bottom: 90px;
+
+}
+
+.card-footer img {
+  width: 24px;
+  height: 24px;
+}
+
+.card-footer {
+  border: none;
+  background-color: white;
+}
+
+.card-footer p {
+  color: rgb(122, 121, 121);
+}
+
+.card-img-top {
+  width: 90%;
+  margin-top: 20px;
+  margin-left: 5%;
+}
+
+.card-footer img {
+  width: 24px;
+  height: 24px;
+}
+
+
+/* testimonial  css*/
+.testimonial {
+  margin-bottom: 200px;
+}
+
+.testimonial-head {
+  margin: 20px 0px;
+  font-size: 36px;
+  font-weight: bold;
+  /* border: 1px solid black; */
+  text-align: center;
+}
+
+.test-d {
+  margin-left: 10%;
+  padding-top: 20px;
+}
+
+.test-d img {
+  height: 120px;
+  width: 120px;
+  margin-bottom: 20px;
+}
+
+.test-d p {
+  text-align: justify;
+}
+
+/* footer section */
+
+.footer-part {
+  background-color: #282531;
+  color: white;
+  padding-top: 100px;
+
+}
+
+.col-sm-2 {
+  padding: 10px 15px;
+  text-align: justify;
+
+}
+
+footer {
+  text-align: center;
+  padding-bottom: 20px;
+
+
+  font-size: 16px;
+  color: #cdcdcd;
+}
